@@ -1,9 +1,24 @@
 ---
-title: "About"
+title: "Internship"
 ---
 
-About this site
+## Internship Experience
 
-```{r}
-1 + 1
-```
+### Deloitte - Audit Intern
+
+*Final Year Internship | Big Four Accounting Firm*
+
+**Key Responsibilities & Learnings:**
+
+- Conducted comprehensive audits during peak and non-peak periods
+
+- Gained practical understanding of financial systems and compliance
+
+- Recognized the critical importance of data accuracy and manipulation
+
+- Developed strong analytical and attention-to-detail skills
+
+## Career Pivot
+
+### Why I Switched to Computing
+My Deloitte experience revealed how technology, particularly data manipulation through code, was transforming traditional audit processes. This insight sparked my interest in computing and led me to pursue **Applied Computing at SIT**.

@@ -1,0 +1,9 @@
+---
+title: "Data Visualisation"
+--- 
+
+## Project Overview
+
+![](Data Visuals.png){width=80%}
+
+This visualization was created from survey data collected for my Critical Thinking project. We gathered responses from individuals regarding their satisfaction with ReadyTalent, the platform used by SIT students to search for internship opportunities. The data visualization was created using Microsoft Excel to analyze and present the survey findings.

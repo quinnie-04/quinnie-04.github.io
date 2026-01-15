@@ -2,10 +2,15 @@
 title: "Assessment 1"
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {style="float:left; margin-right: 20px;"}
+![](Cafe Picture.jpg){height="100px"}
+:::
 
-```{r}
-1 + 1
-```
+I am a Year 1 Applied Computing student at Singapore Institute of Technology (SIT), transitioning from an Accountancy background. I graduated from Temasek Polytechnic with a Diploma in Accountancy.
+
+In my free time, I enjoy reading at cafes and journaling while enjoying food and drinks. My favourite drink is iced matcha latte.
+
+::: {style="clear: both;"}
+:::

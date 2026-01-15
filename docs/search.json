@@ -4,13 +4,69 @@
     "href": "index.html",
     "title": "Assessment 1",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Year 1 Applied Computing student at Singapore Institute of Technology (SIT), transitioning from an Accountancy background. I graduated from Temasek Polytechnic with a Diploma in Accountancy.\nIn my free time, I enjoy reading at cafes and journaling while enjoying food and drinks. My favourite drink is iced matcha latte."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Internship",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Final Year Internship | Big Four Accounting Firm\nKey Responsibilities & Learnings:\n\nConducted comprehensive audits during peak and non-peak periods\nGained practical understanding of financial systems and compliance\nRecognized the critical importance of data accuracy and manipulation\nDeveloped strong analytical and attention-to-detail skills"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Assessment 1",
+    "section": "",
+    "text": "I am a Year 1 Applied Computing student at Singapore Institute of Technology (SIT), transitioning from an Accountancy background. I graduated from Temasek Polytechnic with a Diploma in Accountancy.\nIn my free time, I enjoy reading at cafes and journaling while enjoying food and drinks. My favourite drink is iced matcha latte."
+  },
+  {
+    "objectID": "about.html#internship-experience",
+    "href": "about.html#internship-experience",
+    "title": "Internship",
+    "section": "",
+    "text": "Final Year Internship | Big Four Accounting Firm\nKey Responsibilities & Learnings:\n\nConducted comprehensive audits during peak and non-peak periods\nGained practical understanding of financial systems and compliance\nRecognized the critical importance of data accuracy and manipulation\nDeveloped strong analytical and attention-to-detail skills"
+  },
+  {
+    "objectID": "about.html#career-pivot",
+    "href": "about.html#career-pivot",
+    "title": "Internship",
+    "section": "Career Pivot",
+    "text": "Career Pivot\n\nWhy I Switched to Computing\nMy Deloitte experience revealed how technology, particularly data manipulation through code, was transforming traditional audit processes. This insight sparked my interest in computing and led me to pursue Applied Computing at SIT."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the use of GENAI",
+    "section": "",
+    "text": "One GenAI tool that I regularly use is DeepSeek, which has become an integral part of my academic workflow as an Applied Computing student.\n\n\nSeveral key features make DeepSeek particularly valuable for my studies:\n1. Unlimited Image/Screenshot Uploads\nThis functionality is exceptionally useful when troubleshooting coding errors. I can simultaneously upload screenshots of both my code and the error messages, providing context that enables more accurate and helpful responses from the AI.\n2. Multiple File Upload Capability\nThe ability to upload entire lecture notes or project files allows me to seek clarification on complex topics or get assistance with organizing my study materials. This feature transforms DeepSeek into a personalized study assistant that understands my specific course content.\n3. Cost-Free Accessibility\nAs a student with limited disposable income, having access to a powerful, free GenAI tool is invaluable. DeepSeek provides sophisticated AI assistance without financial barriers, making advanced technology accessible for learning and problem-solving.\n\n\n\nUsing DeepSeek has enhanced my ability to: - Troubleshoot coding problems more efficiently - Clarify complex computing concepts - Organize and synthesize information from lectures - Develop better study habits through structured assistance\nThis experience has shown me how thoughtfully designed GenAI tools can democratize access to knowledge and support diverse learning needs in higher education."
+  },
+  {
+    "objectID": "Reflection.html#reflection-on-the-use-of-genai",
+    "href": "Reflection.html#reflection-on-the-use-of-genai",
+    "title": "Reflection on the use of GENAI",
+    "section": "",
+    "text": "One GenAI tool that I regularly use is DeepSeek, which has become an integral part of my academic workflow as an Applied Computing student.\n\n\nSeveral key features make DeepSeek particularly valuable for my studies:\n1. Unlimited Image/Screenshot Uploads\nThis functionality is exceptionally useful when troubleshooting coding errors. I can simultaneously upload screenshots of both my code and the error messages, providing context that enables more accurate and helpful responses from the AI.\n2. Multiple File Upload Capability\nThe ability to upload entire lecture notes or project files allows me to seek clarification on complex topics or get assistance with organizing my study materials. This feature transforms DeepSeek into a personalized study assistant that understands my specific course content.\n3. Cost-Free Accessibility\nAs a student with limited disposable income, having access to a powerful, free GenAI tool is invaluable. DeepSeek provides sophisticated AI assistance without financial barriers, making advanced technology accessible for learning and problem-solving.\n\n\n\nUsing DeepSeek has enhanced my ability to: - Troubleshoot coding problems more efficiently - Clarify complex computing concepts - Organize and synthesize information from lectures - Develop better study habits through structured assistance\nThis experience has shown me how thoughtfully designed GenAI tools can democratize access to knowledge and support diverse learning needs in higher education."
+  },
+  {
+    "objectID": "Data Visualisation.html",
+    "href": "Data Visualisation.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "This visualization was created from survey data collected for my Critical Thinking project. We gathered responses from individuals regarding their satisfaction with ReadyTalent, the platform used by SIT students to search for internship opportunities. The data visualization was created using Microsoft Excel to analyze and present the survey findings."
+  },
+  {
+    "objectID": "Data Visualisation.html#project-overview",
+    "href": "Data Visualisation.html#project-overview",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "This visualization was created from survey data collected for my Critical Thinking project. We gathered responses from individuals regarding their satisfaction with ReadyTalent, the platform used by SIT students to search for internship opportunities. The data visualization was created using Microsoft Excel to analyze and present the survey findings."
+  },
+  {
+    "objectID": "Reflection.html#deepseek",
+    "href": "Reflection.html#deepseek",
+    "title": "Reflection on the use of GENAI",
+    "section": "",
+    "text": "One GenAI tool that I regularly use is DeepSeek, which has become an integral part of my academic workflow as an Applied Computing student.\n\n\nSeveral key features make DeepSeek particularly valuable for my studies:\n1. Unlimited Image/Screenshot Uploads\nThis functionality is exceptionally useful when troubleshooting coding errors. I can simultaneously upload screenshots of both my code and the error messages, providing context that enables more accurate and helpful responses from the AI.\n2. Multiple File Upload Capability\nThe ability to upload entire lecture notes or project files allows me to seek clarification on complex topics or get assistance with organizing my study materials. This feature transforms DeepSeek into a personalized study assistant that understands my specific course content.\n3. Cost-Free Accessibility\nAs a student with limited disposable income, having access to a powerful, free GenAI tool is invaluable. DeepSeek provides sophisticated AI assistance without financial barriers, making advanced technology accessible for learning and problem-solving.\n\n\n\nUsing DeepSeek has enhanced my ability to: - Troubleshoot coding problems more efficiently - Clarify complex computing concepts - Organize and synthesize information from lectures - Develop better study habits through structured assistance\nThis experience has shown me how thoughtfully designed GenAI tools can democratize access to knowledge and support diverse learning needs in higher education."
   }
 ]
