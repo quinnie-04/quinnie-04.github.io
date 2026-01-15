@@ -12,8 +12,10 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - Data Visualisation.qmd
-      - Reflection.qmd
+      - href: "Data Visualisation.qmd"
+        text: Data Visualisation
+      - href: Reflection.qmd
+        text: Reflection
 
 format:
   html:
