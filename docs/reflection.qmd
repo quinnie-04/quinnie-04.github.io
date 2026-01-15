@@ -1,0 +1,30 @@
+---
+title: "Reflection on the use of GENAI"
+---
+
+## DeepSeek
+
+One GenAI tool that I regularly use is DeepSeek, which has become an integral part of my academic workflow as an Applied Computing student.
+
+### Why I Choose DeepSeek
+
+Several key features make DeepSeek particularly valuable for my studies:
+
+**1. Unlimited Image/Screenshot Uploads**  
+This functionality is exceptionally useful when troubleshooting coding errors. I can simultaneously upload screenshots of both my code and the error messages, providing context that enables more accurate and helpful responses from the AI.
+
+**2. Multiple File Upload Capability**  
+The ability to upload entire lecture notes or project files allows me to seek clarification on complex topics or get assistance with organizing my study materials. This feature transforms DeepSeek into a personalized study assistant that understands my specific course content.
+
+**3. Cost-Free Accessibility**  
+As a student with limited disposable income, having access to a powerful, free GenAI tool is invaluable. DeepSeek provides sophisticated AI assistance without financial barriers, making advanced technology accessible for learning and problem-solving.
+
+### Impact on My Learning Journey
+
+Using DeepSeek has enhanced my ability to:
+- Troubleshoot coding problems more efficiently
+- Clarify complex computing concepts
+- Organize and synthesize information from lectures
+- Develop better study habits through structured assistance
+
+This experience has shown me how thoughtfully designed GenAI tools can democratize access to knowledge and support diverse learning needs in higher education.
